@@ -1,0 +1,19 @@
+/* Navigation */
+.nav li {
+    /* use to remove disc in list */
+    list-style-type: none;
+    /* use to display horizontally */
+    display: inline-block;
+  }
+  .nav li a {
+    /* use to remove underline in link */
+    text-decoration: none;
+  }
+
+  /* Profile Picture */
+#profile {
+  height: 112px;
+  width: auto;
+  border-radius: 100px;
+
+}

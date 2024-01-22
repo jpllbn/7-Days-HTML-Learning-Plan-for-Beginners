@@ -1,6 +1,8 @@
-## Day 2: Lists and Links in HTML
+## Day 3: Lists and Links in HTML
 **Overview:** Explore ordered and unordered lists, as well as hyperlinks.
+
 **Activities:** Create a navigation menu using lists, link pages together, and understand anchor tags.
+
 **Why:** Enhance your HTML skills by incorporating lists and links into your web pages.
 
 ### Project Idea: Personal Portfolio Navigation Menu
